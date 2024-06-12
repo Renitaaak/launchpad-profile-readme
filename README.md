@@ -5,18 +5,14 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# Launchpad: Profile Renita Kamil
 
-_Say hello to your community._
+_Hello everyone!!!._
 
 
 <!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
+  <<< background of me >>> 
+  I'm a active student at University of Tarumanagara, 19's Y.O turning to  20 this year, I like to meet people, and colaborate with.
 -->
 
 <details id=0 open>
